@@ -12,7 +12,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 ### Brief introduction of myself
 * See more daily life and sparks in 微博
 
-* check my travel and food pictures in Instagram
+* Check my travel and food pictures in Instagram
 
 | 我在这里 | 
 |---|

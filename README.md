@@ -40,7 +40,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 10. [非营利组织管理]()
 
-11. [公共部门组织机构与行政审批制度改革]（）
+11. [公共部门组织机构与行政审批制度改革]()
 
 
 

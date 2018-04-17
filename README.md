@@ -6,7 +6,7 @@ As a student major in PA (public administration) / PP(public policy) / Public Ma
 * Methodology: Econometrics and R, Python skills  
 
 ### Contents
->This part I set up with the readings and reference that I learn before spring2018, including the stage of my undergraduate students
+>This part I set up with the readings and reference that I learn before spring2018, including the stage of being a undergraduate student
 
 
 ### Brief introduction of myself
@@ -20,7 +20,7 @@ As a student major in PA (public administration) / PP(public policy) / Public Ma
 |[Instagram][Ins]| 
 
 ### Syllabus
-1. [专业课程（本科）](Book_Reference_PA/专业课程（本科）)
+1. [专业课程（本科）](./专业课程（本科）)
 
 
 

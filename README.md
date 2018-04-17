@@ -1,6 +1,6 @@
 # Books_Reference_PA
 ----
-As a student major in PA (public administration) / PP(public policy) / Public Management / Policy Analysis (All you can name it), who is supposed to have a great command of knowledge basically in two aspects.
+As a student major in **PA** (*public administration*) / **PP**(*public policy*) / *Public Management* / *Policy Analysis* (All you can name it), who is supposed to have a great command of knowledge basically in two aspects.
 
 * Knowledge: Practical and Common Sense in PA
 * Methodology: Econometrics and R, Python skills  

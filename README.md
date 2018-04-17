@@ -6,7 +6,7 @@ This part I set up with the readings and reference that I learn in my undergradu
 | 我在这里 | 
 |---|
 |[微 博][Weibo]|
-|[Ins][Ins]| 
+|[Instagram][Ins]| 
 
 
 

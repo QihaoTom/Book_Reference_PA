@@ -46,7 +46,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 8. [政商关系、政企关系]()
 
-9. [政府创新]()
+9. [政府创新、政策执行与政策终止]()
 
 
 #### 四、政策领域
@@ -56,8 +56,6 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 1. [公共管理研究方法]()
 
 2. [公共政策评估]()
-
-
 
 
 

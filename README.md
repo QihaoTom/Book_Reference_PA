@@ -34,7 +34,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 7. [公共管理研究方法]()
 
-8. [政策评估]()
+8. [公共政策评估]()
 
 9. [中央地方政府间关系：财政分权与政治分权]()
 

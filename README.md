@@ -38,7 +38,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 9. [中央地方政府间关系：财政分权与政治分权]()
 
-10.[非营利组织管理]()
+10. [非营利组织管理]()
 
 
 

@@ -19,9 +19,8 @@ As a student major in PA (public administration) / PP(public policy) / Public Ma
 |[微      博][Weibo]|
 |[Instagram][Ins]| 
 
-
-
-
+### Syllabus
+1. [专业课程（本科）](./Book_Reference_PA/专业课程（本科）)
 
 
 

@@ -5,7 +5,7 @@ This part I set up with the readings and reference that I learn in my undergradu
 ### Who Am I?
 | 我在这里 | 
 |---|
-|[微 博][Weibo]|
+|[微      博][Weibo]|
 |[Instagram][Ins]| 
 
 

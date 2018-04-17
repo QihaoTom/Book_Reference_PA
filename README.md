@@ -42,6 +42,8 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 11. [公共部门组织机构与行政审批制度改革]()
 
+12. [公共部门人力资源管理与组织理论]()
+
 
 
 

@@ -44,6 +44,10 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 12. [公共部门人力资源管理与组织理论]()
 
+13. [政商关系、政企关系]()
+
+14. []()
+
 
 
 

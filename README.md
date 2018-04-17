@@ -32,6 +32,10 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 6. [如何理解中国政府行为、政策过程、政策扩散]()
 
+7. [公共管理研究方法]()
+
+8. [政策评估]()
+
 
 
 

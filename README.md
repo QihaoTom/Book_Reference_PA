@@ -52,7 +52,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 #### 四、政策领域
 1. [扶贫开发与精准扶贫]()
 
-#### 四、研究方法
+#### 五、研究方法
 1. [公共管理研究方法]()
 
 2. [公共政策评估]()

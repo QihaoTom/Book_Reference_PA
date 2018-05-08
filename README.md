@@ -54,7 +54,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 #### 五、研究方法
 1. [公共管理研究方法]()
-* ![KKV](Book_Reference_PA/KKV.jpg)
+* [KKV](Book_Reference_PA/KKV.jpg)
 
 2. [公共政策评估]()
 

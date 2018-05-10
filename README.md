@@ -56,6 +56,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 1. [公共管理研究方法]()
 * [围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
 * [组织行为及人力资源的应用]()
+* [统计前传]()
 
 2. [公共政策评估]()
 

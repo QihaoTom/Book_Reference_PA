@@ -43,6 +43,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 6. [公共部门组织机构与行政审批制度改革]()
 
 7. [公共部门人力资源管理与组织理论]()
+* 官僚制、公共选择、代表性官僚、[公共服务动机]()
 
 8. [政商关系、政企关系]()
 

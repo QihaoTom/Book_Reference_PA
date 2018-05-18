@@ -65,7 +65,8 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
   * [中心极限定理]、[大数定理和方差分析]
 * [计量经济学]()
   * Discrete Choice and limited Depedent Variable Models (mlogit)
-  
+  * 时间序列分析
+  
 
 2. [公共政策评估]()
 * [Treatment Effect: DID, RDD, PSM]()

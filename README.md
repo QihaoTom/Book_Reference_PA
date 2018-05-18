@@ -58,10 +58,10 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 1. [公共管理研究方法]()
 * [围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
 * [组织行为及人力资源的应用]()
-* [统计前传]()
+* 统计前传
   * 极大似然估计（MLE）
-* [统计基础]()
-  * [极限中心定理](https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%8A%BD%E6%A0%B7%E8%AF%AF%E5%B7%AE%E6%A8%A1%E6%8B%9F%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86.do)、[大数定理和方差分析](https://github.com/QihaoTom/Book_Reference_PA/blob/master/t%E5%88%86%E5%B8%83%E3%80%81%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90%E5%92%8CF%E5%88%86%E5%B8%83.do)
+* 统计基础
+  * [极限中心定理]、[大数定理和方差分析]
 * [计量经济学]()
   * Discrete Choice and limited Depedent Variable Models (mlogit)
   
@@ -73,3 +73,5 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 ****
 [Weibo]:https://weibo.com/tangtang14/home?topnav=1&wvr=6
 [Ins]:https://www.instagram.com/tommy_hao1/
+[极限中心定理]:https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%8A%BD%E6%A0%B7%E8%AF%AF%E5%B7%AE%E6%A8%A1%E6%8B%9F%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86.do
+[大数定理和方差分析]https://github.com/QihaoTom/Book_Reference_PA/blob/master/t%E5%88%86%E5%B8%83%E3%80%81%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90%E5%92%8CF%E5%88%86%E5%B8%83.do

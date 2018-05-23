@@ -71,6 +71,13 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
   * 时间序列分析
 
 * [Python设计基础]()
+  * 列表、if语句、while循环和字典
+  * 函数的参数、作用域和递归
+  * 文件和异常
+  * Numpy 线性代数计算
+  * Pandas
+
+* [Python设计基础]()
   
 
 2. [公共政策评估]()

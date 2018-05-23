@@ -55,11 +55,11 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 2. [环境政策与治理]()
 
 #### 五、公共管理研究方法
-1.[围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
+1. [围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
 
-2.[组织行为及人力资源的应用]()
+2. [组织行为及人力资源的应用]()
   
-3.[计量经济学]()
+3. [计量经济学]()
  * 统计前传
    * 极大似然估计（MLE） 
  * 统计基础
@@ -71,7 +71,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
   
  * 时间序列分析
 
-4.[Python设计基础]()
+4. [Python设计基础]()
  * 列表、if语句、while循环和字典
  * 函数的参数、作用域和递归
  * 文件和异常

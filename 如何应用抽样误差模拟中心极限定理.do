@@ -78,8 +78,51 @@ foreach num of numlist 1(1)100:
     
 
 # erase 掉文件 的循环大招
-    
+--
 
+** 使用stata模拟中央极限定理
+** 虚构一个10000人的总体，取值0-9999
+
+clear
+set obs 10000
+gen x=_n
+replace x=x-1
+sum x
+
+save temp, replace /*保存为一个临时数据以备后用*/
+
+* 下面的命令是抽取50个样本量为200人的随机样本
+* 样本数或每个样本的样本量可以自定
+* 每个样本的样本量越大，抽样分布的均值越接近总体均值
+* 并计算每一个样本的均值并保存为数据库
+
+foreach num of numlist 1(1)50 {
+	use temp, clear
+	sample 200, count
+	egen mx=mean(x)
+	keep in 1/1
+	drop x
+	save t`num', replace
+}
+
+* 将所有均值的数据合并构成一个抽样分布
+clear
+use t1, clear
+foreach num of numlist 2(1)50 {
+	append using t`num'
+}
+
+* 检验抽样分布的特征
+sum mx
+kdensity mx /*检查mx是否服从正态分布*/
+
+* 将临时文件删除
+foreach num of numlist 1(1)50 {
+	erase t`num'.dta
+}
+
+erase temp.dta
+exit
 
 
 

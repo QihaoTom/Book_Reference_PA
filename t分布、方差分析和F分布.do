@@ -94,6 +94,7 @@ display %10.9f Ftail(2,3516,65.42)
 oneway weight region,tab scheff
 # 地区解释了体重差异贡献的3%
 anova weight region
+regress
 
 
 

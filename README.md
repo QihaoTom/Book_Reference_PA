@@ -61,13 +61,14 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 * 统计前传
   * 极大似然估计（MLE）
 * 统计基础
-
-  * [中心极限定理]、[大数定理和方差分析]
+  * [中心极限定理]、[大数定理和方差分析]
+  * [一元回归基础、拟合直线与分组回归]
 * [计量经济学]()
 
   * Discrete Choice and limited Depedent Variable Models (mlogit)
   
   * 时间序列分析
+* [Python设计基础]（）
   
 
 2. [公共政策评估]()

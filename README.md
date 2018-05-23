@@ -54,34 +54,30 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 1. [扶贫开发与精准扶贫]()
 2. [环境政策与治理]()
 
-#### 五、研究方法
-1. [公共管理研究方法]()
-* [围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
+#### 五、公共管理研究方法
+1.[围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
 
-* [组织行为及人力资源的应用]()
+2.[组织行为及人力资源的应用]()
   
-* [计量经济学]()
-  * 统计前传
-    * 极大似然估计（MLE） 
-  * 统计基础
-    * [中心极限定理]、[大数定理和方差分析]、[一元回归基础、拟合直线与分组回归]
+3.[计量经济学]()
+ * 统计前传
+   * 极大似然估计（MLE） 
+ * 统计基础
+   * [中心极限定理]、[大数定理和方差分析]、[一元回归基础、拟合直线与分组回归]
   
-  * Discrete Choice and limited Depedent Variable Models (mlogit)
-  
-  * 时间序列分析
+ * Discrete Choice and limited Depedent Variable Models (mlogit）
+  
+ * [公共政策评估：Treatment Effect: DID, RDD, PSM]()
+  
+ * 时间序列分析
 
-* [Python设计基础]()
+4.[Python设计基础]()
  * 列表、if语句、while循环和字典
  * 函数的参数、作用域和递归
  * 文件和异常
  * Numpy 线性代数计算
  * Pandas
-
-* [Python设计基础]()
   
-
-2. [公共政策评估]()
-* [Treatment Effect: DID, RDD, PSM]()
 
 
 ****

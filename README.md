@@ -77,6 +77,9 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
  * 文件和异常
  * Numpy 线性代数计算
  * Pandas
+ * 爬虫、实现网页自动点击
+ 
+ 5. [机器学习]()
   
 
 

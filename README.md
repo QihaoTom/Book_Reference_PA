@@ -62,13 +62,13 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
   * 极大似然估计（MLE）
 * 统计基础
   * [中心极限定理]、[大数定理和方差分析]
-  * [一元回归基础、拟合直线与分组回归]
+  * [一元回归基础、拟合直线与分组回归]()
 * [计量经济学]()
 
   * Discrete Choice and limited Depedent Variable Models (mlogit)
   
   * 时间序列分析
-* [Python设计基础]（）
+* [Python设计基础]()
   
 
 2. [公共政策评估]()
@@ -80,3 +80,4 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 [Ins]:https://www.instagram.com/tommy_hao1/
 [中心极限定理]:https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%8A%BD%E6%A0%B7%E8%AF%AF%E5%B7%AE%E6%A8%A1%E6%8B%9F%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86.do
 [大数定理和方差分析]:https://github.com/QihaoTom/Book_Reference_PA/blob/master/t%E5%88%86%E5%B8%83%E3%80%81%E6%96%B9%E5%B7%AE%E5%88%86%E6%9E%90%E5%92%8CF%E5%88%86%E5%B8%83.do
+[一元回归基础、拟合直线与分组回归]:https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E4%B8%80%E5%85%83%E5%9B%9E%E5%BD%92%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%9B%BE.do

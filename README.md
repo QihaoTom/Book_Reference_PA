@@ -57,15 +57,17 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 #### 五、研究方法
 1. [公共管理研究方法]()
 * [围绕KKV方法论的争论](https://github.com/QihaoTom/Book_Reference_PA/tree/master/KKV)
-* [组织行为及人力资源的应用]()
-* 统计前传
-  * 极大似然估计（MLE）
-* 统计基础
-  * [中心极限定理]、[大数定理和方差分析]
-  
-  * [一元回归基础、拟合直线与分组回归]()
-* [计量经济学]()
 
+* [组织行为及人力资源的应用]()
+  
+* [计量经济学]()
+  * 统计前传
+   * 极大似然估计（MLE）
+   
+  * 统计基础
+   * [中心极限定理]、[大数定理和方差分析]
+   * [一元回归基础、拟合直线与分组回归]()
+  
   * Discrete Choice and limited Depedent Variable Models (mlogit)
   
   * 时间序列分析

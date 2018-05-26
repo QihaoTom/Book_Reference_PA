@@ -66,7 +66,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
    * [中心极限定理]、[大数定理和方差分析]、[一元回归基础、拟合直线与分组回归]
  * [中级计量经济学]()  
    * BPtest, White test检验异方差、用robust处理异方差
-   * WLS [aw=inc] 来加权，但基于方差形式已知的强假设
+   * WLS [aw=inc] 来加权，但是是基于方差形式已知的强假设
    * 被解释变量的测量误差可证是更保守的估计
  * Discrete Choice and limited Depedent Variable Models (mlogit）
   

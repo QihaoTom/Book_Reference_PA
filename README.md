@@ -68,6 +68,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
    * BPtest, White test检验异方差、用robust处理异方差
    * WLS [aw=inc] 来加权，但是是基于方差形式已知的强假设
    * 被解释变量的测量误差可证是更保守的估计
+   * Proxy：用滞后一期的变量
  * Discrete Choice and limited Depedent Variable Models (mlogit）
   
  * [公共政策评估：Treatment Effect: DID, RDD, PSM]()

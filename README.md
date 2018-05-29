@@ -44,6 +44,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
 
 7. [公共部门人力资源管理与组织理论]()
 * 官僚制、公共选择、代表性官僚、[公共服务动机]()
+* 绩效管理（[Performance Management](https://www.lafollette.wisc.edu/images/syllabi/PA895/PA895_Performance_Management_17.pdf)）
 
 8. [政商关系、政企关系]()
 

@@ -65,7 +65,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
    * 极大似然估计（MLE） 
  * [统计基础]()
    * [中心极限定理]、[大数定理和方差分析]、[一元回归基础、拟合直线与分组回归]
-   * [虚拟变量与多元线性回归模型]()
+   * [虚拟变量与多元线性回归模型](https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E7%AC%AC%E4%BA%94%E8%AE%B2%EF%BC%9A%E8%99%9A%E6%8B%9F%E5%8F%98%E9%87%8F%E4%B8%8E%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.md)
  * [中级计量经济学]()  
    * BPtest, White test检验异方差、用robust处理异方差
    * WLS [aw=inc] 来加权，但是是基于方差形式已知的强假设

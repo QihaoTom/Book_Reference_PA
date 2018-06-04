@@ -73,7 +73,7 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
    * Proxy：用滞后一期的变量
  * Discrete Choice and limited Depedent Variable Models (mlogit）
  
- * [公共政策评估：Treatment Effect: DID, RDD, PSM]()
+ * [公共政策评估：Treatment Effect: DID, RDD, PSM](https://github.com/QihaoTom/Book_Reference_PA/blob/master/Treatment%20Effects1.pdf)
  
  * [组织与管理研究的实证方法](https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E7%BB%84%E7%BB%87%E4%B8%8E%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6%E7%9A%84%E5%AE%9E%E8%AF%81%E6%96%B9%E6%B3%95.md)
    * 调节效应（交互）和中介效应

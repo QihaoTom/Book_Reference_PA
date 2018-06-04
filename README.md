@@ -71,9 +71,12 @@ As a student major in **PA** (*public administration*) / **PP**(*public policy*)
    * WLS [aw=inc] 来加权，但是是基于方差形式已知的强假设
    * 被解释变量的测量误差可证是更保守的估计
    * Proxy：用滞后一期的变量
+ * 简单面板数据回归（DID）
+ * 固定效应、随机效应、IV、豪斯曼检验
  * Discrete Choice and limited Depedent Variable Models (mlogit）
+   * Multinomial Probit， 蒙特卡罗模拟， 不受IIA的假设限制
  
- * [公共政策评估：Treatment Effect: DID, RDD, PSM](https://github.com/QihaoTom/Book_Reference_PA/blob/master/Treatment%20Effects1.pdf)
+ * [公共政策评估：Treatment Effect: DID, RDD, PSM（Heckman两步法）](https://github.com/QihaoTom/Book_Reference_PA/blob/master/Treatment%20Effects1.pdf)
  
  * [组织与管理研究的实证方法](https://github.com/QihaoTom/Book_Reference_PA/blob/master/%E7%BB%84%E7%BB%87%E4%B8%8E%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6%E7%9A%84%E5%AE%9E%E8%AF%81%E6%96%B9%E6%B3%95.md)
    * 调节效应（交互）和中介效应
